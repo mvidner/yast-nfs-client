@@ -15,5 +15,8 @@ missing
 *.ami
 /Makefile.am
 /Makefile.am.common
+configure.ac
 configure.in
 doc/autodocs/*.html
+testsuite/site.bak
+package/*.tar.*
